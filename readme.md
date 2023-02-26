@@ -25,7 +25,7 @@ As a student pursuing a Superior Technical Degree in Web Development and Digital
 
 Here are some of my notable projects:
 
-- **[Sas Ceramica Site](https://github.com/ahroncich7/sas)**: Developed a site to show products and artist information.Store product information and allow for queries based on category and availability (in stock) to then be displayed on the front-end.
+- **[Sas Ceramica Site](https://github.com/ahroncich7/sas)**: Developed a site to show products and artist information. Store product information and allow for queries based on category and availability (in stock) to then be displayed on the front-end.
 
 - **[Tiled-adapter. ](https://github.com/ahroncich7/e-commerce-website)**: An NPM module that enables importing a JSON file from Tiled and converting it into a JavaScript object.
 
